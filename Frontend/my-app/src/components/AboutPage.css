@@ -1,0 +1,22 @@
+/* AboutPage.css */
+
+.about-container {
+  max-width: 800px; /* Set a maximum width for responsiveness */
+  padding: 40px;
+  margin: 0 auto; /* Center the container horizontally */
+  text-align: justify; /* Justify text for better readability */
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #666;
+  margin-bottom: 20px;
+}
